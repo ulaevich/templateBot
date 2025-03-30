@@ -1,2 +1,3 @@
 # Aiogram bot template
-python 3.11.9
+
+python 3.12
